@@ -633,5 +633,10 @@
     "name": "Proxmox-VE",
     "sort": "vms",
     "course": ""
+  },
+  {
+    "name": "A-WEI",
+    "sort": "other",
+    "course": ""
   }
 ]
